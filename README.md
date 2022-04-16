@@ -1,27 +1,45 @@
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/iBANmdIlMNJVC/giphy.gif">
+
+
+<!--<div align="center">
+  <img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 </div>
-<br>
+<br> -->
 
-Hi, I´m Stiven Bautista 😄,
+#  ```System.out.println("Hi! I'm Stiven Bautista"); ```
 
-I am a backend developer with knowledge in Java technologies. I am a geek passionate for the world of the technology and programming.
-I am able to develop applications with frameworks like Spring Boot and Micronaut using relational databases like Mysql or no relational databases like Redis and MongoDB.
-I have experimented in the frontend development in vue.js and Angular 7 frameworks.
+I'm backend developer. I have 3 years of experience in the building of web applications with **java** and **spring boot**.  
 
+## A little more about me...
+
+```java
+public class Application {
+
+    public static void main(String[] args) {
+        List<String> technologies = Arrays.asList("Java", "Spring Boot", "Mysql", "Redis", "Javascript", "Vue.js");
+        List<String> architectures = Arrays.asList("Microservices", "POO");
+        List<String> tools = Arrays.asList("Intellij IDEA", "Dbeaver", "RedisDesktopManager", "VSCode");
+        List<String> hobbies = Arrays.asList("Learn", "Watch series", "Play videogames", "I'm trying to read more often :D");
+    }
+
+}
+```
+
+## You can you find me on
 
 <!--
-**msbautista/msbautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://medium.com/@msbautista">
+  <img align="left" alt="Medium" width="22px" src="https://user-images.githubusercontent.com/57375735/163694638-5bdbc735-e916-4def-9201-37bef63f814d.png" />
+</a>
+<a href="https://www.hackerrank.com/msbautista">
+  <img align="left" alt="HackerRank" width="22px" src="https://user-images.githubusercontent.com/57375735/163694622-7e701edf-719e-4e69-9116-97eecf8ed2f8.png" />
+</a>
+<a href="https://www.linkedin.com/in/msbautista/">
+  <img align="left" alt="Linkedin" width="22px" src="https://user-images.githubusercontent.com/57375735/163694558-a8a41255-ef61-48f4-8b64-fb4fc1ca9529.png" />
+</a>
 -->
+
+* [Medium](https://medium.com/@msbautista)
+* [Linkedin](https://www.linkedin.com/in/msbautista/)
+* [HackerRank](https://www.hackerrank.com/msbautista)
+
