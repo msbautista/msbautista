@@ -16,7 +16,7 @@ I'm backend developer. I have 3 years of experience in the building of web appli
 public class Application {
 
     public static void main(String[] args) {
-        List<String> technologies = Arrays.asList("Java", "Spring Boot", "Mysql", "Redis", "Javascript", "Vue.js");
+        List<String> technologies = Arrays.asList("Java", "Spring Boot", "Mysql", "Redis", "Javascript", "Vue.js", "Amazon Web Services");
         List<String> architectures = Arrays.asList("Microservices", "POO");
         List<String> tools = Arrays.asList("Intellij IDEA", "Dbeaver", "RedisDesktopManager", "VSCode");
         List<String> hobbies = Arrays.asList("Learn", "Watch series", "Play videogames", "I'm trying to read more often :D");
