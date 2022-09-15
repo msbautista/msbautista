@@ -43,3 +43,7 @@ public class Application {
 * [Linkedin](https://www.linkedin.com/in/msbautista/)
 * [HackerRank](https://www.hackerrank.com/msbautista)
 
+## Check some of my stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=msbautista)](https://github.com/msbautista/github-readme-stats)
+
