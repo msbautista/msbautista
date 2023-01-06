@@ -17,7 +17,7 @@ public class Application {
 
     public static void main(String[] args) {
         List<String> technologies = Arrays.asList("Java", "Spring Boot", "Mysql", "Redis", "Javascript", "Vue.js", "Amazon Web Services", "C#", ".Net Core", "Android");
-        List<String> architectures = Arrays.asList("Microservices", "POO");
+        List<String> architectures = Arrays.asList("Microservices", "POO", "REST");
         List<String> tools = Arrays.asList("Intellij IDEA", "Dbeaver", "RedisDesktopManager", "VSCode");
         List<String> hobbies = Arrays.asList("Learn", "Watch series", "Play videogames", "I'm trying to read more often :D");
     }
