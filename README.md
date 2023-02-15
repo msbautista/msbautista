@@ -1,52 +1,19 @@
+# 💫 About Me:
+I'm backend developer. I have 4 years of experience in the building of web applications with java and spring boot.
 
 
+## 🌐 Socials:
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@msbautista) 
 
-<!--<div align="center">
-  <img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
-</div>
-<br> -->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
+ ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=msbautista&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br />
+![](https://github-readme-stats.vercel.app/api?username=msbautista&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=msbautista&theme=default&hide_border=false)
 
-#  ```System.out.println("Hi! I'm Stiven Bautista"); ```
+---
+[![](https://visitcount.itsvg.in/api?id=msbautista&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I'm backend developer. I have 4 years of experience in the building of web applications with **java** and **spring boot**.  
-
-## A little more about me...
-
-```java
-public class Application {
-
-    public static void main(String[] args) {
-        List<String> technologies = Arrays.asList("Java", "Spring Boot", "Mysql", "Redis", "Javascript", "Vue.js", "Amazon Web Services", "C#", ".Net Core", "Android");
-        List<String> architectures = Arrays.asList("Microservices", "POO", "REST");
-        List<String> tools = Arrays.asList("Intellij IDEA", "Dbeaver", "RedisDesktopManager", "VSCode");
-        List<String> hobbies = Arrays.asList("Learn", "Watch series", "Play videogames", "I'm trying to read more often :D");
-    }
-
-}
-```
-
-## You can you find me on
-
-<!--
-<a href="https://medium.com/@msbautista">
-  <img align="left" alt="Medium" width="22px" src="https://user-images.githubusercontent.com/57375735/163694638-5bdbc735-e916-4def-9201-37bef63f814d.png" />
-</a>
-<a href="https://www.hackerrank.com/msbautista">
-  <img align="left" alt="HackerRank" width="22px" src="https://user-images.githubusercontent.com/57375735/163694622-7e701edf-719e-4e69-9116-97eecf8ed2f8.png" />
-</a>
-<a href="https://www.linkedin.com/in/msbautista/">
-  <img align="left" alt="Linkedin" width="22px" src="https://user-images.githubusercontent.com/57375735/163694558-a8a41255-ef61-48f4-8b64-fb4fc1ca9529.png" />
-</a>
--->
-
-* [Medium](https://medium.com/@msbautista)
-* [Linkedin](https://www.linkedin.com/in/msbautista/)
-* [HackerRank](https://www.hackerrank.com/msbautista)
-
-## Check some of my stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=msbautista)](https://github.com/msbautista/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msbautista)](https://github.com/msbautista/github-readme-stats)
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
